@@ -1,0 +1,1 @@
+I present a transfer learning strategy for eggplant leaf and fruit disease classification that makes use of deep convolutional neural networks. The method improves accuracy and generalizability by applying lessons learned from a vast and varied dataset to a new and specialized job with no additional training time or data.
